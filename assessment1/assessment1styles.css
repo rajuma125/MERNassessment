@@ -1,0 +1,43 @@
+
+nav{
+  justify-content: space-evenly;
+  background-color:pink;
+  color: black;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  position: fixed;
+  width: 100%;
+  padding: 10px;
+}
+.container{
+  justify-content: space-around;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+.imgpara{
+  display: flex;
+  margin-top: auto;
+  height: 550px;;
+}
+.imgpara > div {
+  width: 50%;
+  
+}
+
+.left > p{
+  font-size: larger;
+}
+.left{
+background-color:yellow;
+
+}
+
+img{
+  width: 100%;
+  height: 100%;
+}
+
+
+
