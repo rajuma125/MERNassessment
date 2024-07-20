@@ -31,7 +31,9 @@ nav{
 }
 .left{
 background-color:yellow;
-
+display: flex;
+flex-direction: column;
+justify-content: center;
 }
 
 img{
